@@ -1,0 +1,9 @@
+vosk 
+sounddevice 
+pyttsx3 
+psutil 
+Pillow 
+requests 
+schedule 
+pycaw 
+comtypes
